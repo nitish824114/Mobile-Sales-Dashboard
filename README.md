@@ -5,13 +5,13 @@ This Power BI dashboard provides a comprehensive view of Motorola’s sales perf
 
 KPI Cards:
 
-Total Sales: 769M
+- Total Sales: 769M
 
-Total Quantity: 19K
+- Total Quantity: 19K
 
-Transactions: 4K
+- Transactions: 4K
 
-Average Sales: 40K
+- Average Sales: 40K
 
 **Geographical Analysis:**
 Total Sales by City visualized on a map of India, showing regional performance distribution.
@@ -31,16 +31,16 @@ Brand-wise Sales Table lists Apple, OnePlus, Samsung, and Vivo with total sales 
 
 **Skills Demonstrated**
 
-Data modeling and relationship building
+- Data modeling and relationship building
 
-DAX calculations for KPIs and measures
+- DAX calculations for KPIs and measures
 
-Power Query for data cleaning and transformation
+- Power Query for data cleaning and transformation
 
-Interactive dashboard design and layout optimization
+- Interactive dashboard design and layout optimization
 
-Use of map visuals, pie charts, bar charts, and line graphs
+- Use of map visuals, pie charts, bar charts, and line graphs
 
-Conditional formatting and dynamic filtering
+- Conditional formatting and dynamic filtering
 
-Publishing and sharing reports via Power BI Service
+- Publishing and sharing reports via Power BI Service

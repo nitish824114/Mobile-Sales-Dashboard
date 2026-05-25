@@ -1,6 +1,8 @@
 # Mobile-Sales-Dashboard
 This Power BI dashboard provides a comprehensive view of Motorola’s sales performance across multiple dimensions — geography, time, product models, customer ratings, and payment methods. It transforms raw transactional data into actionable insights through interactive visualizations and dynamic filters.
+
 **Key Features:**
+
 KPI Cards:
 
 Total Sales: 769M
@@ -26,3 +28,19 @@ Transactions by Payment Method pie chart compares UPI, Debit Card, Cash, and Cre
 Total Sales by Mobile Model compares top-selling devices (iPhone SE, OnePlus Nord, Galaxy Note).
 
 Brand-wise Sales Table lists Apple, OnePlus, Samsung, and Vivo with total sales and quantities.
+
+**Skills Demonstrated**
+
+Data modeling and relationship building
+
+DAX calculations for KPIs and measures
+
+Power Query for data cleaning and transformation
+
+Interactive dashboard design and layout optimization
+
+Use of map visuals, pie charts, bar charts, and line graphs
+
+Conditional formatting and dynamic filtering
+
+Publishing and sharing reports via Power BI Service
